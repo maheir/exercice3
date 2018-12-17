@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\exercice 3\exercice 3\obj\Debug\exercice 3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\exercice 3\exercice 3\bin\Debug\exercice 3.exe.config
+C:\Users\Dell\source\repos\exercice 3\exercice 3\bin\Debug\exercice 3.exe
+C:\Users\Dell\source\repos\exercice 3\exercice 3\bin\Debug\exercice 3.pdb
+C:\Users\Dell\source\repos\exercice 3\exercice 3\obj\Debug\exercice 3.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\exercice 3\exercice 3\obj\Debug\exercice 3.exe
+C:\Users\Dell\source\repos\exercice 3\exercice 3\obj\Debug\exercice 3.pdb
